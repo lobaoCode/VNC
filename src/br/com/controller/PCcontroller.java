@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author gustavo.santos
+ * @author Lobão
  */
 public final class PCcontroller {
 

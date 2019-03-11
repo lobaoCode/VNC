@@ -9,7 +9,7 @@ import br.com.view.TelaPrincipal;
 
 /**
  *
- * @author gustavo.santos
+ * @author Lobão
  */
 public class App {
     

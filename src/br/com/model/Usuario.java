@@ -7,7 +7,7 @@ package br.com.model;
 
 /**
  *
- * @author gustavo.santos
+ * @author Lobão
  */
 public class Usuario {
     
