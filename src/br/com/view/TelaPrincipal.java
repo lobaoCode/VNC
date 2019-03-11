@@ -20,8 +20,8 @@ import javax.swing.JTextField;
 import net.miginfocom.swing.MigLayout;
 
 /**
- *
- * @author gustavo.santos
+ * 
+ * @author Lobão
  */
 public class TelaPrincipal extends JFrame {
 
